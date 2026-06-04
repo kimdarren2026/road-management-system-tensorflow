@@ -1,0 +1,20 @@
+item {
+    name: "00",
+    id: 1,
+    display_name: "00"
+}
+item {
+    name: "L00",
+    id: 2,
+    display_name: "L00"
+}
+item {
+    name: "R02",
+    id: 3,
+    display_name: "R02"
+}
+item {
+    name: "R03",
+    id: 4,
+    display_name: "R03"
+}

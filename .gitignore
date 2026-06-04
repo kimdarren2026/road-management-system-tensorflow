@@ -1,0 +1,13 @@
+tes-1.mkv
+output_videos/*mp4
+output_videos/Demo/*mp4
+output_videos/Demo2/*mp4
+Program_Ujang_Supriyadi.rar
+model_infer/inference_graph_msdaren
+model_infer/inference_maspohan_4
+model_infer/inference_maspohan_5
+TES-VIDEO.mkv
+model_infer/
+__pycache__/
+*.pyc
+*.pyo
